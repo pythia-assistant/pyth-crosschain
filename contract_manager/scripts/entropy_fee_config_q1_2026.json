@@ -1,0 +1,135 @@
+[
+  {
+    "chainId": "abstract",
+    "entropyContract": "0x5a4a369F4db5df2054994AF031b7b23949b98c0e",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "apechain_mainnet",
+    "entropyContract": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320",
+    "newFeeWei": "20000000000000000",
+    "token": "APE",
+    "humanReadable": "0.02 APE"
+  },
+  {
+    "chainId": "arbitrum",
+    "entropyContract": "0x7698E925FfC29655576D0b361D75Af579e20AdAc",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "b3_mainnet",
+    "entropyContract": "0x5744Cbf430D99456a0A8771208b674F27f8EF0Fb",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "base",
+    "entropyContract": "0x6E7D74FA7d5c90FEF9F0512987605a6d546181Bb",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "berachain_mainnet",
+    "entropyContract": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320",
+    "newFeeWei": "10000000000000000",
+    "token": "BERA",
+    "humanReadable": "0.01 BERA"
+  },
+  {
+    "chainId": "blast",
+    "entropyContract": "0x5744Cbf430D99456a0A8771208b674F27f8EF0Fb",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "etherlink",
+    "entropyContract": "0x23f0e8FAeE7bbb405E7A7C3d60138FCfd43d7509",
+    "newFeeWei": "25000000000000000",
+    "token": "XTZ",
+    "humanReadable": "0.025 XTZ"
+  },
+  {
+    "chainId": "hyperevm",
+    "entropyContract": "0xfA25E653b44586dBbe27eE9d252192F0e4956683",
+    "newFeeWei": "400000000000000",
+    "token": "HYPE",
+    "humanReadable": "0.0004 HYPE"
+  },
+  {
+    "chainId": "kaia",
+    "entropyContract": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320",
+    "newFeeWei": "200000000000000000",
+    "token": "KAIA",
+    "humanReadable": "0.2 KAIA"
+  },
+  {
+    "chainId": "monad",
+    "entropyContract": "0xD458261E832415CFd3BAE5E416FdF3230ce6F134",
+    "newFeeWei": "200000000000000000",
+    "token": "MON",
+    "humanReadable": "0.2 MON"
+  },
+  {
+    "chainId": "optimism",
+    "entropyContract": "0xdF21D137Aadc95588205586636710ca2890538d5",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "sanko",
+    "entropyContract": "0x5744Cbf430D99456a0A8771208b674F27f8EF0Fb",
+    "newFeeWei": "2000000000000000",
+    "token": "DMT",
+    "humanReadable": "0.002 DMT"
+  },
+  {
+    "chainId": "sei_evm_mainnet",
+    "entropyContract": "0x98046Bd286715D3B0BC227Dd7a956b83D8978603",
+    "newFeeWei": "100000000000000000",
+    "token": "SEI",
+    "humanReadable": "0.1 SEI"
+  },
+  {
+    "chainId": "soneium",
+    "entropyContract": "0x0708325268dF9F66270F1401206434524814508b",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "fantom_sonic_mainnet",
+    "entropyContract": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320",
+    "newFeeWei": "100000000000000000",
+    "token": "S",
+    "humanReadable": "0.1 S"
+  },
+  {
+    "chainId": "story",
+    "entropyContract": "0xdF21D137Aadc95588205586636710ca2890538d5",
+    "newFeeWei": "10000000000000000",
+    "token": "IP",
+    "humanReadable": "0.01 IP"
+  },
+  {
+    "chainId": "unichain",
+    "entropyContract": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320",
+    "newFeeWei": "3000000000000",
+    "token": "ETH",
+    "humanReadable": "0.000003 ETH"
+  },
+  {
+    "chainId": "zetachain",
+    "entropyContract": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320",
+    "newFeeWei": "200000000000000000",
+    "token": "ZETA",
+    "humanReadable": "0.2 ZETA"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "chainId": "zero_gravity",
+    "chainName": "0G",
+    "newFee": "0.2",
+    "token": "0G",
+    "fee": 2,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "abstract",
+    "chainName": "Abstract",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "apechain_mainnet",
+    "chainName": "Apechain",
+    "newFee": "0.2",
+    "token": "APE",
+    "fee": 2,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "arbitrum",
+    "chainName": "Arbitrum",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "aurora",
+    "chainName": "Aurora",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees unchanged"
+  },
+  {
+    "chainId": "avalanche",
+    "chainName": "Avalanche",
+    "newFee": "0.0005",
+    "token": "AVAX",
+    "fee": 5,
+    "exponent": 14,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "berachain_mainnet",
+    "chainName": "Berachain",
+    "newFee": "0.003",
+    "token": "BERA",
+    "fee": 3,
+    "exponent": 15,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "bittensor_mainnet",
+    "chainName": "Bittensor",
+    "newFee": "0.00005",
+    "token": "TAO",
+    "fee": 5,
+    "exponent": 13,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "blast",
+    "chainName": "Blast",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "bsc",
+    "chainName": "BNB",
+    "newFee": "0.0000125",
+    "token": "BNB",
+    "fee": 125,
+    "exponent": 11,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "bttc",
+    "chainName": "BTTC",
+    "newFee": "25000",
+    "token": "BTT",
+    "fee": 25,
+    "exponent": 21,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "base",
+    "chainName": "Base",
+    "newFee": "0.0000015",
+    "token": "ETH",
+    "fee": 15,
+    "exponent": 11,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "boba",
+    "chainName": "Boba",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "camp_network",
+    "chainName": "Camp",
+    "newFee": "2",
+    "token": "CAMP",
+    "fee": 2,
+    "exponent": 18,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "celo",
+    "chainName": "Celo",
+    "newFee": "0.1",
+    "token": "CELO",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "chiliz",
+    "chainName": "Chilliz",
+    "newFee": "0.33",
+    "token": "CHZ",
+    "fee": 33,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "conflux_espace",
+    "chainName": "Conflux",
+    "newFee": "0.1",
+    "token": "CFX",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees unchanged"
+  },
+  {
+    "chainId": "coredao",
+    "chainName": "Core DAO",
+    "newFee": "0.02",
+    "token": "CORE",
+    "fee": 2,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "cronos",
+    "chainName": "Cronos",
+    "newFee": "0.06",
+    "token": "CRO",
+    "fee": 6,
+    "exponent": 16,
+    "note": "Fees unchanged"
+  },
+  {
+    "chainId": "cronos_zkevm_mainnet",
+    "chainName": "Cronos zkEVM",
+    "newFee": "0.06",
+    "token": "CRO",
+    "fee": 6,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "ethereum",
+    "chainName": "Ethereum",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "etherlink",
+    "chainName": "Etherlink",
+    "newFee": "0.01",
+    "token": "XTZ",
+    "fee": 1,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "eventum_mainnet",
+    "chainName": "Eventum",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "filecoin",
+    "chainName": "Filecoin",
+    "newFee": "0.01",
+    "token": "FIL",
+    "fee": 1,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "flow_mainnet",
+    "chainName": "Flow",
+    "newFee": "0.1",
+    "token": "FLOW",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "gnosis",
+    "chainName": "Gnosis",
+    "newFee": "0.01",
+    "token": "XDAI",
+    "fee": 1,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "gravity",
+    "chainName": "Gravity",
+    "newFee": "1",
+    "token": "G",
+    "fee": 1,
+    "exponent": 18,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "hemi_mainnet",
+    "chainName": "Hemi",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "hyperevm",
+    "chainName": "HyperEVM",
+    "newFee": "0.0001",
+    "token": "HYPE",
+    "fee": 1,
+    "exponent": 14,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "injective_inevm",
+    "chainName": "Injective EVM",
+    "newFee": "0.001",
+    "token": "INJ",
+    "fee": 1,
+    "exponent": 15,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "kraken_ink_mainnet",
+    "chainName": "Ink",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "iota",
+    "chainName": "Iota (EVM)",
+    "newFee": "0.1",
+    "token": "IOTA",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "kava",
+    "chainName": "Kava",
+    "newFee": "0.15",
+    "token": "KAVA",
+    "fee": 15,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "kcc",
+    "chainName": "KCC",
+    "newFee": "0.001",
+    "token": "KCS",
+    "fee": 1,
+    "exponent": 15,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "kaia",
+    "chainName": "Kaia",
+    "newFee": "0.2",
+    "token": "KAIA",
+    "fee": 2,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "lightlink_phoenix",
+    "chainName": "Lightlink",
+    "newFee": "1",
+    "token": "LL",
+    "fee": 1,
+    "exponent": 18,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "linea",
+    "chainName": "Linea",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "manta",
+    "chainName": "Manta",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "mantle",
+    "chainName": "Mantle",
+    "newFee": "0.01",
+    "token": "MNT",
+    "fee": 1,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "merlin",
+    "chainName": "Merlin",
+    "newFee": "0.0000001",
+    "token": "BTC",
+    "fee": 1,
+    "exponent": 11,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "meter",
+    "chainName": "Meter",
+    "newFee": "0.04",
+    "token": "MTR",
+    "fee": 4,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "mezo",
+    "chainName": "Mezo",
+    "newFee": "0.0000001",
+    "token": "BTC",
+    "fee": 1,
+    "exponent": 11,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "mode",
+    "chainName": "Mode",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "monad",
+    "chainName": "Monad",
+    "newFee": "0.005",
+    "token": "MON",
+    "fee": 5,
+    "exponent": 15,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "morph",
+    "chainName": "Morph",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "neon",
+    "chainName": "Neon",
+    "newFee": "0.15",
+    "token": "NEON",
+    "fee": 15,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "opbnb",
+    "chainName": "opBNB",
+    "newFee": "0.0000125",
+    "token": "BNB",
+    "fee": 125,
+    "exponent": 11,
+    "note": "Fees decreased"
+  },
+  {
+    "chainId": "optimism",
+    "chainName": "Optimism",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "plasma",
+    "chainName": "Plasma",
+    "newFee": "0.05",
+    "token": "XPL",
+    "fee": 5,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "polygon",
+    "chainName": "Polygon",
+    "newFee": "0.1",
+    "token": "POL",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "polygon_zkevm",
+    "chainName": "Polygon zkEVM",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "polynomial",
+    "chainName": "Polynomial",
+    "newFee": "0.0000015",
+    "token": "ETH",
+    "fee": 15,
+    "exponent": 11,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "ronin",
+    "chainName": "Ronin",
+    "newFee": "0.1",
+    "token": "RON",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "scroll",
+    "chainName": "Scroll",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "superseed_mainnet",
+    "chainName": "Superseed",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "sei_evm_mainnet",
+    "chainName": "Sei EVM",
+    "newFee": "0.1",
+    "token": "SEI",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "shimmer",
+    "chainName": "Shimmer",
+    "newFee": "100",
+    "token": "SMR",
+    "fee": 1,
+    "exponent": 20,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "skate",
+    "chainName": "Skate",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "soneium",
+    "chainName": "Soneium",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "story",
+    "chainName": "Story Protocol",
+    "newFee": "0.006",
+    "token": "IP",
+    "fee": 6,
+    "exponent": 15,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "swellchain",
+    "chainName": "Swellchain",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees decreased"
+  },
+  {
+    "chainId": "taiko_mainnet",
+    "chainName": "Taiko",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "unichain",
+    "chainName": "Unichain",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "viction",
+    "chainName": "Viction",
+    "newFee": "0.1",
+    "token": "VIC",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "wemix",
+    "chainName": "WEMIX",
+    "newFee": "0.03",
+    "token": "WEMIX",
+    "fee": 3,
+    "exponent": 16,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "worldchain",
+    "chainName": "Worldchain",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees decreased"
+  },
+  {
+    "chainId": "zksync",
+    "chainName": "zkSync Era",
+    "newFee": "0.000003",
+    "token": "ETH",
+    "fee": 3,
+    "exponent": 12,
+    "note": "Fees increased"
+  },
+  {
+    "chainId": "zetachain",
+    "chainName": "Zetachain",
+    "newFee": "0.1",
+    "token": "ZETA",
+    "fee": 1,
+    "exponent": 17,
+    "note": "Fees increased"
+  }
+]
